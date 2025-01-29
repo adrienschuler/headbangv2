@@ -1,0 +1,8 @@
+fastapi[standard]
+itsdangerous
+kafka-python-ng
+pydantic_settings
+python-dotenv
+requests
+starlette
+typing_extensions
